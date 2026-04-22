@@ -18,12 +18,20 @@ body{
     text-align: center;
 }
 
+.hidden{
+    display: none;
+}
+
 #lienzo-uno{
     border: 2px solid lime;
 }
 
 #lienzo-dos{
     border: 2px solid #FF3131;
+}
+
+#lienzo-dos-hidden{
+    border: 2px solid #FFA239;
 }
 
 #lienzo-tres{
